@@ -1,6 +1,11 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
+  <div class="sign-in">
+  <header>
+    <img src=></header>
+    <h1>Galvanize Votes</h1>
+  <main>
+    <p>Future home of Galvanize Votes</p>
+    </main>
     <p>
       For guide and recipes on how to configure / customize this project,<br>
       check out the
@@ -31,7 +36,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'signIn',
   props: {
     msg: String
   }

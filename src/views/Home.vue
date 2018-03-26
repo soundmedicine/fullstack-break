@@ -16,3 +16,9 @@ export default {
   }
 }
 </script>
+
+<style scoped lang="scss">
+  .home{
+    background-color: red;
+  }
+  </style>
